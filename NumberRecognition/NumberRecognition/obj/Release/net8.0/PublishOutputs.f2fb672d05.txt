@@ -1,0 +1,9 @@
+C:\Users\Jakob Bornsek\OneDrive\Desktop\C#\NumberRecognition.exe
+C:\Users\Jakob Bornsek\OneDrive\Desktop\C#\NumberRecognition.dll
+C:\Users\Jakob Bornsek\OneDrive\Desktop\C#\NumberRecognition.deps.json
+C:\Users\Jakob Bornsek\OneDrive\Desktop\C#\NumberRecognition.runtimeconfig.json
+C:\Users\Jakob Bornsek\OneDrive\Desktop\C#\NumberRecognition.pdb
+C:\Users\Jakob Bornsek\OneDrive\Desktop\C#\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jakob Bornsek\OneDrive\Desktop\C#\System.Drawing.Common.dll
+C:\Users\Jakob Bornsek\OneDrive\Desktop\C#\System.Private.Windows.Core.dll
+C:\Users\Jakob Bornsek\OneDrive\Desktop\C#\runtimes\win\lib\net8.0\Microsoft.Win32.SystemEvents.dll
